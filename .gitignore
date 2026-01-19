@@ -3,8 +3,6 @@
 .nyc_output
 coverage
 
-/js
-
 .pnpm-debug
 .pnpm-debug*
 logs
